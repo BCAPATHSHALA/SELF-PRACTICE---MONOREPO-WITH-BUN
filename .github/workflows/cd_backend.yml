@@ -25,4 +25,4 @@ jobs:
           push: true
           tags: manojofficialmj/backend-application:${{ github.sha }}
 
-        ## This step to deploy to the VM "It's always follows the different sub steps to deployment"
+        ## This step to deploy to the VM
